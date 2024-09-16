@@ -1,0 +1,35 @@
+/* tacos.css */
+
+body { 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: tan;
+    background-color: green;
+}
+
+h3 {
+    color: tan;
+    background-color: green;
+  }
+
+  p {
+    color: tan;
+    background-color: green;
+  }
+
+  ul {
+    color: tan;
+    background-color: green;
+  }
+
+  ol {
+    color: tan;
+    background-color: green;
+  }
+
+  img {
+    height: 600px;
+    width: 600px;
+  }
