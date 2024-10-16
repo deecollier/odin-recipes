@@ -1,10 +1,30 @@
 /* index.css */
+* {
+    box-sizing: border-box;
+    margin: 24px;
+}
+
 body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(8, 64, 233); 
+
+}
+
+h1 { 
     text-align: center;
-    background-color: black;
-    color: white;
+    border-style: dashed;
+    border-color: rgb(8, 64, 233);
+    border-width: 4px;
+    padding: 12px;
+    background-color: white;
 }
 ul 
 {
-    color: white;
+    color: rgb(255, 5, 5);
+    padding: 24px;
+    border-style: dashed;
+    border-color: red;
+    background-color: white;
+    border-width: 4px;
+
 }
